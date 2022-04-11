@@ -1,0 +1,8 @@
+C:\Users\oandino\Documents\CursoC#\CursoCSharp\DesafioString1\bin\Debug\DesafioString1.exe.config
+C:\Users\oandino\Documents\CursoC#\CursoCSharp\DesafioString1\bin\Debug\DesafioString1.exe
+C:\Users\oandino\Documents\CursoC#\CursoCSharp\DesafioString1\bin\Debug\DesafioString1.pdb
+C:\Users\oandino\Documents\CursoC#\CursoCSharp\DesafioString1\obj\Debug\DesafioString1.csproj.AssemblyReference.cache
+C:\Users\oandino\Documents\CursoC#\CursoCSharp\DesafioString1\obj\Debug\DesafioString1.csproj.SuggestedBindingRedirects.cache
+C:\Users\oandino\Documents\CursoC#\CursoCSharp\DesafioString1\obj\Debug\DesafioString1.csproj.CoreCompileInputs.cache
+C:\Users\oandino\Documents\CursoC#\CursoCSharp\DesafioString1\obj\Debug\DesafioString1.exe
+C:\Users\oandino\Documents\CursoC#\CursoCSharp\DesafioString1\obj\Debug\DesafioString1.pdb
