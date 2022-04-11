@@ -1,0 +1,8 @@
+C:\Users\oandino\Documents\CursoC#\CursoCSharp\DesafioDeclaracionIF\bin\Debug\DesafioDeclaracionIF.exe.config
+C:\Users\oandino\Documents\CursoC#\CursoCSharp\DesafioDeclaracionIF\bin\Debug\DesafioDeclaracionIF.exe
+C:\Users\oandino\Documents\CursoC#\CursoCSharp\DesafioDeclaracionIF\bin\Debug\DesafioDeclaracionIF.pdb
+C:\Users\oandino\Documents\CursoC#\CursoCSharp\DesafioDeclaracionIF\obj\Debug\DesafioDeclaracionIF.csproj.AssemblyReference.cache
+C:\Users\oandino\Documents\CursoC#\CursoCSharp\DesafioDeclaracionIF\obj\Debug\DesafioDeclaracionIF.csproj.SuggestedBindingRedirects.cache
+C:\Users\oandino\Documents\CursoC#\CursoCSharp\DesafioDeclaracionIF\obj\Debug\DesafioDeclaracionIF.csproj.CoreCompileInputs.cache
+C:\Users\oandino\Documents\CursoC#\CursoCSharp\DesafioDeclaracionIF\obj\Debug\DesafioDeclaracionIF.exe
+C:\Users\oandino\Documents\CursoC#\CursoCSharp\DesafioDeclaracionIF\obj\Debug\DesafioDeclaracionIF.pdb
